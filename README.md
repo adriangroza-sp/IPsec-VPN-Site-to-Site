@@ -24,6 +24,22 @@ Fairly Complex Configuration / ( we need to aggree on Encryption, Hashing algori
 Limited Visibility as traffic is encrypted
 
 
+## Lab Environment
+-EVE-NG
+-Lab Components -2 Fortinet Firewall Devices /2 sites
+
+
+## Software Release Version
+FortiGate-VM64-KVM v6.4.0,build1579
+
+## Topology
+<img width="1281" height="532" alt="Site to Site IPSEC VPN tunnel" src="https://github.com/user-attachments/assets/344e010b-a6b5-4d6e-8235-312d4bf6e558" />
+
+
+## Configuration 
+
+
+
 
 
 
